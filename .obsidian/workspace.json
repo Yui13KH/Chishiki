@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "1b945fe229b91a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "be9a4ce6b5d0e706",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edbb26a76a6b5463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Biyoloji.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Biyoloji"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c04149b7b35df83",
+    "type": "split",
+    "children": [
+      {
+        "id": "a203df075d5d723a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e8286d7dfebfffe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "93a90b9c2ab1d8a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "312b3f8229301532",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fe9e655de615d685",
+    "type": "split",
+    "children": [
+      {
+        "id": "910acc56e7f676da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "472f4a6927e911c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "school/kimya_1_2024.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for kimya_1_2024"
+            }
+          },
+          {
+            "id": "4764d65bf7eacdb6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Comptia/A+/1.1 Laptop Hardware.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.1 Laptop Hardware"
+            }
+          },
+          {
+            "id": "910ef65292ded344",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "90d32245dd3e9486",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "school/kimya_1_2024.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of kimya_1_2024"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "edbb26a76a6b5463",
+  "lastOpenFiles": [
+    "Highschool AO/Previous exams/2025 march 1st sitting.pdf",
+    "Highschool AO/Previous exams/2025 march 2nd sitting.pdf",
+    "Highschool AO/Topics gathered from previous exams/topics ranges.md",
+    "Highschool AO/Previous exams/2025 march 3rd sitting.pdf",
+    "Subjects/Biyoloji.md",
+    "Untitled",
+    "Subjects",
+    "Highschool AO/Topics gathered from previous exams/bio 1 topics from  questions over years.md",
+    "Highschool AO/kimya 1/atom radius trend.png",
+    "README.md",
+    "Randoms/Unrealistic Roadmap.md",
+    "Randoms/coursera+ certs.md",
+    "Comptia/A+/Professor Messer/1.1 Laptop Hardware.md",
+    "Comptia/A+/burningtech/module 3 installing system devices.md",
+    "Comptia/A+/AIO book/Info.md",
+    "Comptia/A+/AIO book/Electrostatic Discharge (ESD).md",
+    "Comptia/A+/AIO book/Media/Technical toolkit.png",
+    "Highschool AO/kimya 1/trends.png",
+    "school/kimya_1_2024.pdf",
+    "Highschool AO/kimya 1/atom radius tererds==--.png",
+    "Highschool AO/Topics gathered from previous exams/Chemistry topics from  questions over years.md",
+    "Highschool AO/Topics gathered from previous exams/bio 2 topics from  questions over years.md",
+    "Comptia/Pasted image 20250928182016.png",
+    "Excalidraw/Drawing 2025-10-15 23.02.44.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-15 22.55.26.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-06 16.53.50.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-15 22.56.48.excalidraw.md",
+    "Highschool AO/Previous exams/2024 december 1st sitting.pdf",
+    "school/biyoloji_1_2024.pdf",
+    "Highschool AO/Previous exams/2024 march 1st.pdf",
+    "Highschool AO/Previous exams/2024 july 1st.pdf",
+    "Highschool AO/Topics gathered from previous exams/turkish 1 topics from  questions over years.md",
+    "Highschool AO/Topics gathered from previous exams/turkish 2 topics from  questions over years.md",
+    "test.md",
+    "Highschool AO/Turk Dili ve Edebiyat 1/topics.md",
+    "templates/Untitled.md",
+    "chemistry questions.md",
+    "Randoms/The forgotten city.md",
+    "Randoms/EF SET 90 min english test.md",
+    "Highschool AO/Topics gathered from previous exams/history 1 topics from  questions over years.md",
+    "Comptia/Media/port traffic.png"
+  ]
+}
