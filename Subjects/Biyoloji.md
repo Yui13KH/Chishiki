@@ -140,3 +140,42 @@ Canlıların tüm özellikleri ve temel yaşamsal olaylarını inceler.
 ---
 
 # vid 2 : Bilim , Bilimin doğası ve bilimsel araştırma süreçleri
+
+### bilim nedir ? 
+
+Bilim : evrendeki olaylara ve evrenle ilgili merak edilen sorulara yanit arama surecinde *sistematik bilgi edinme* , elde edilen bilgilerin *guvenilir ve gecerli* olarak aciklanabilimesi seklinde tanimlanir.
+
+Bilim yontem : arastirma sorularinin test edilmesi, gozlemlerin yapilmasi, sonuclarin analiz edilmesi yoluyla bilginin artmasini ve anlayisin gelismesini surekli hale getiren bir surectir.
+
+
+### bilimin dogasi:
+
+bilimsel arastirmalarin *nasil yapildigini*,
+bilimsel bilginin *nasil elde edildigini* ve degerlendirildigini,
+bilimsel bilginin *toplumda nasil kullanildigini* aciklayan bir kavramdir.
+
+
+
+*Bilimin doğasının anlaşılabilmesi için göz önünde bulundurulması gereken özellikler:*
+
+1. Bilimsel bilginin değişebilir olması
+2. Bilimsel bilginin sosyal ve kültürel yapısı
+3. Bilimsel bilginin özgünlüğü
+4. Öznellik (subjektiflik)
+5. Bilimsel teoriler ve kanunların birbirinden farklı yapıları
+6. Bilimsel bilginin gözlemlere ve çıkarımlara dayalı olması
+7. Bilimsel yöntem algısı
+
+
+
+*Bilimsel Yöntem Basamakları:*
+
+I. Gözlem Yapта
+II. Problemi veya Durumu Belirleme
+III. Veri Toplama
+IV. Hipotez Oluşturma
+V. Hipoteze Dayalı Tahminler
+VI. Deney Tasarlama
+VII. Analiz ve Sonuç Çıkarma
+
+![[Pasted image 20251107201331.png]]

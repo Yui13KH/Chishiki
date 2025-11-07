@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fe9e655de615d685",
@@ -172,6 +173,7 @@
   },
   "active": "edbb26a76a6b5463",
   "lastOpenFiles": [
+    "Pasted image 20251107201331.png",
     "Highschool AO/Previous exams/2025 march 1st sitting.pdf",
     "Highschool AO/Previous exams/2025 march 2nd sitting.pdf",
     "Highschool AO/Topics gathered from previous exams/topics ranges.md",
