@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be9a4ce6b5d0e706",
+        "id": "dd5c59c04690d1cf",
         "type": "tabs",
         "children": [
           {
-            "id": "edbb26a76a6b5463",
+            "id": "7650bfd14f682742",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fe9e655de615d685",
@@ -171,15 +170,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "edbb26a76a6b5463",
+  "active": "7650bfd14f682742",
   "lastOpenFiles": [
-    "Pasted image 20251107201331.png",
+    "Highschool AO/Topics gathered from previous exams/geography 2 topics from  questions over years.md",
+    "Highschool AO/Topics gathered from previous exams/topics ranges.md",
+    "Fundamentals of Data Engineering (Reis, JoeHousley, Matt).md",
+    "Subjects/Pasted image 20251107201331.png",
+    "Books",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Subjects/Biyoloji.md",
     "Highschool AO/Previous exams/2025 march 1st sitting.pdf",
     "Highschool AO/Previous exams/2025 march 2nd sitting.pdf",
-    "Highschool AO/Topics gathered from previous exams/topics ranges.md",
     "Highschool AO/Previous exams/2025 march 3rd sitting.pdf",
-    "Subjects/Biyoloji.md",
-    "Untitled",
     "Subjects",
     "Highschool AO/Topics gathered from previous exams/bio 1 topics from  questions over years.md",
     "Highschool AO/kimya 1/atom radius trend.png",
@@ -203,8 +206,6 @@
     "Excalidraw/Drawing 2025-10-15 22.56.48.excalidraw.md",
     "Highschool AO/Previous exams/2024 december 1st sitting.pdf",
     "school/biyoloji_1_2024.pdf",
-    "Highschool AO/Previous exams/2024 march 1st.pdf",
-    "Highschool AO/Previous exams/2024 july 1st.pdf",
     "Highschool AO/Topics gathered from previous exams/turkish 1 topics from  questions over years.md",
     "Highschool AO/Topics gathered from previous exams/turkish 2 topics from  questions over years.md",
     "test.md",
@@ -213,7 +214,6 @@
     "chemistry questions.md",
     "Randoms/The forgotten city.md",
     "Randoms/EF SET 90 min english test.md",
-    "Highschool AO/Topics gathered from previous exams/history 1 topics from  questions over years.md",
     "Comptia/Media/port traffic.png"
   ]
 }
