@@ -345,3 +345,142 @@ Atom → Molekül → Organel → **Hücre** → Doku → Organ → Sistem → *
 ---
 
 
+# Biyoloji 1 - Video 4: **Sınıflandırma & Modern Sistem**
+
+_(p.44–52 – Taksonomi + 3 Domain)_
+
+## 1. Sınıflandırma Neden Önemli?
+- **Hastalık teşhisi** → Mikropları doğru tanı  
+- **Koruma** → Nesli tükenen türleri belirle  
+→ **Sağlık + Çevre** için temel
+
+---
+
+## 2. Temel Kavramlar
+
+| Kavram        | Tanım                                |
+| ------------- | ------------------------------------ |
+| **Takson**    | Ortak özellikli canlı grubu          |
+| **Taksonomi** | Sınıflandırma bilimi                 |
+| **Tür**       | Çiftleşip **verimli döl** veren grup |
+
+---
+
+## 3. İkili Adlandırma (Binomial) – Carl Linnaeus
+
+> **İki kelime, italik, ilk harf büyük**
+
+
+Canis lupus → Kurt 
+Homo sapiens → İnsan
+
+- 1. kelime: **Cins**  
+- 2. kelime: **Tür tamamlayıcısı**
+
+---
+
+## 4. Taksonomi Hiyerarşisi (Âlem → Tür)
+
+| Seviye     | Açıklama                                   |
+| ---------- | ------------------------------------------ |
+| **Domain** | En üst (3 tane)                            |
+| **Âlem**   |                                            |
+| **Şube**   |                                            |
+| **Sınıf**  |                                            |
+| **Takım**  |                                            |
+| **Aile**   |                                            |
+| **Cins**   |                                            |
+| **Tür**    | En alt → **en az birey, en çok benzerlik** |
+
+> **Âlem → Tür yönünde:**  
+> Birey ↓ | Çeşitlilik ↓ | Genetik benzerlik ↑ | Akrabalık ↑
+
+---
+
+## 5. Modern Sınıflandırma = **Filogenetik**
+- **Eskiden**: Sadece dış görünüş  
+- **Şimdi**: **Akrabalık + genetik**  
+→ Morfoloji, anatomi, fizyoloji, **DNA**
+
+---
+
+## 6. Üç Domain Sistemi (3 Üst Âlem)
+
+| Domain       | Hücre Tipi | Çekirdek? | Örnek                           |
+| ------------ | ---------- | --------- | ------------------------------- |
+| **Bacteria** | Prokaryot  | Yok       | E.coli, streptokok              |
+| **Archaea**  | Prokaryot  | Yok       | Metan üretenler, tuz sevenler   |
+| **Eukarya**  | Ökaryot    | Var       | Bitki, hayvan, mantar, protista |
+
+> **Farklar**:  
+> - Bakteri vs Arke: **Hücre duvarı, RNA, ribozom**  
+> - Ökaryot: **Histon proteinli kromozom**
+
+---
+
+# Biyoloji 1 - Video 5: **Ökaryotlar & 4 Âlem**
+
+_(p.55–64 – Protista, Bitkiler, Mantarlar, Hayvanlar)_
+
+## 1. Ökaryot Domaini (Eukarya)
+- **Tüm prokaryot dışı canlılar**  
+- **Belirgin çekirdek + zarlı organeller**  
+- **DNA → histon proteinlerine sarılı**  
+- **Hücresel iskelet** → şekil + hareket
+
+---
+
+## 2. Ökaryotik Canlıların 4 Âlemi
+
+| Âlem | Hücre | Beslenme | Üreme | Örnek |
+|------|------|----------|-------|-------|
+| **Protista** | Tek/çok | Ototrof, heterotrof, parazit | Çoğu **eşeysiz** | Amip, öglena, yeşil alg |
+| **Bitkiler** | Çok | **Fotosentez** (ototrof) | Tohum/çiçek/spor | Kara yosunu, eğrelti, elma ağacı |
+| **Mantarlar** | Tek/çok | **Çürükçül** (enzimle sindirir) | **Spor**, tomurcuklanma | Şapkalı mantar, maya, küf |
+| **Hayvanlar** | Çok | Heterotrof | Eşeyli | (Video 6’da) |
+
+---
+
+## 3. Protista Âlemi
+- **Ökaryot + çok çeşitli**  
+- **Yaşam alanı**: Su, toprak, parazit  
+- **Beslenme**:  
+  - Fotosentez (algler)  
+  - Yeme (amip)  
+  - Parazit  
+- **Üreme**: Çoğu **eşeysiz** (bölünme)
+
+---
+
+## 4. Bitkiler Âlemi
+- **Çok hücreli + fotosentez**  
+- **İletim demeti** → su + besin taşır  
+- **Üreme**:  
+  - **Tohumsuz**: Spor (kara yosunu, eğrelti)  
+  - **Tohumlu**: Çiçek/kozalak → tohum
+
+| Grup | Üreme | Örnek |
+|------|-------|-------|
+| Tohumsuz | Spor | Kara yosunu, eğrelti |
+| Tohumlu | Çiçek/kozalak | Menekşe, çam, elma |
+
+---
+
+## 5. Mantarlar Âlemi
+- **Ökaryot + çürükçül**  
+- **Hif** → ipliksi yapı  
+- **Miselyum** → hif ağı (toprak altı)  
+- **Üreme yapısı** → şapka (spor üretir)
+
+| Tür | Özellik | Kullanım/Zarar |
+|-----|--------|----------------|
+| Şapkalı | Çok hücreli | Yenilebilir |
+| Küf | Çürütür | Gıda bozar, ilaç (penisilin) |
+| Maya | Tek hücreli | Ekmek, bira, probiyotik |
+
+> **Üreme**:  
+> - **Spor** (çoğu)  
+> - **Tomurcuklanma** (maya)  
+> - **Eşeyli** (hif birleşmesi)
+
+---
