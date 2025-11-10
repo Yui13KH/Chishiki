@@ -484,3 +484,53 @@ _(p.55–64 – Protista, Bitkiler, Mantarlar, Hayvanlar)_
 > - **Eşeyli** (hif birleşmesi)
 
 ---
+
+
+# Biyoloji 1 – Video 7: Biyoçeşitlilik (Fauna & Flora)
+
+## 1. Biyoçeşitlilik Nedir?
+- **Tanım:** Bir bölgede veya dünyada **gen, tür, popülasyon, ekosistem** düzeyindeki tüm canlı çeşitliliği.
+- **Kapsadığı Düzeyler:**
+  1. **Genetik çeşitlilik** (genler)
+  2. **Tür çeşitliliği** (bireyler, türler)
+  3. **Ekolojik çeşitlilik** (popülasyon, komünite, ekosistem)
+
+---
+
+## 2. Temel Kavramlar (Sınav Odaklı)
+
+| Kavram | Tanım | Örnek |
+|--------|-------|-------|
+| **Popülasyon** | Aynı türden bireylerin **aynı coğrafi alanda** oluşturduğu üreyen topluluk | Bir göldeki tüm kurbağalar |
+| **Komünite** | Aynı bölgede, farklı popülasyonların **birlikte yaşadığı** topluluk | Göl: kurbağa + balık + sucul bitkiler |
+| **Flora** | Bir bölgedeki **tüm bitki türleri** | Türkiye'nin çiçekli bitkileri |
+| **Fauna** | Bir bölgedeki **tüm hayvan türleri** | Antalya'nın semenderleri |
+
+---
+
+## 3. Türkiye'nin Zengin Biyoçeşitliliği
+- **Henüz keşfedilmemiş türler** var → Araştırmalar sürüyor.
+- **Önemli Türk Biyologlar & Keşifleri:**
+
+| Biyolog | Keşif / Çalışma |
+|---------|------------------|
+| **Prof. Dr. Asuman Baytop** | **Çöveni** (bitki türü) |
+| **Prof. Dr. Muhtar Başoğlu** | **Antalya semenderi** |
+| **Prof. Dr. Tevfik Karabağ** | **Uludağ gökçesi** (böcek türü) |
+
+> **Sınav İpucu:** Bu isimler **direkt soru** olarak gelebilir!
+
+---
+
+## 4. Canlıların Önemi
+- **Biyolojik:** Denge (besin zinciri, tozlaşma, oksijen)
+- **Ekonomik:** İlaç, gıda, turizm, genetik kaynak
+
+
+
+
+
+
+
+well supposedly i covered all of bio 1 
+i'll come back and read those from time to time 
