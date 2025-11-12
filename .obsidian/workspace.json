@@ -11,14 +11,12 @@
             "id": "ef313a86d83b88f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Türk Dili ve Edebiyatı 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Highschool AO/Previous exams/2025 march 2nd sitting.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Türk Dili ve Edebiyatı 1"
+              "icon": "lucide-file-text",
+              "title": "2025 march 2nd sitting"
             }
           }
         ]
@@ -172,7 +170,7 @@
   },
   "active": "ef313a86d83b88f7",
   "lastOpenFiles": [
-    "Türk Dili ve Edebiyatı 1.md",
+    "Subjects/Türk Dili ve Edebiyatı 1.md",
     "Highschool AO/Topics gathered from previous exams/M.E.B. Açık Öğretim Lisesi ve Mesleki Açık Öğretim Lisesi.pdf",
     "Highschool AO/Topics gathered from previous exams/topics ranges.md",
     "Highschool AO/Previous exams/2025 march 2nd sitting.pdf",
