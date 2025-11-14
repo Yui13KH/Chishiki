@@ -11,12 +11,14 @@
             "id": "ef313a86d83b88f7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Highschool AO/Previous exams/2025 march 2nd sitting.pdf"
+                "file": "Subjects/Türk Dili ve Edebiyatı 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2025 march 2nd sitting"
+              "icon": "lucide-file",
+              "title": "Türk Dili ve Edebiyatı 1"
             }
           }
         ]
@@ -170,10 +172,11 @@
   },
   "active": "ef313a86d83b88f7",
   "lastOpenFiles": [
+    "turk_dili_ve_edebiyati_1_2024.pdf",
     "Subjects/Türk Dili ve Edebiyatı 1.md",
+    "Highschool AO/Previous exams/2025 march 2nd sitting.pdf",
     "Highschool AO/Topics gathered from previous exams/M.E.B. Açık Öğretim Lisesi ve Mesleki Açık Öğretim Lisesi.pdf",
     "Highschool AO/Topics gathered from previous exams/topics ranges.md",
-    "Highschool AO/Previous exams/2025 march 2nd sitting.pdf",
     "Highschool AO/Previous exams/2025 march 1st sitting.pdf",
     "Highschool AO/Topics gathered from previous exams/traffic 1 topics from  questions over years.md",
     "Highschool AO/Topics gathered from previous exams/turkish 1 topics from  questions over years.md",
@@ -208,7 +211,6 @@
     "Excalidraw/Drawing 2025-10-15 22.55.26.excalidraw.md",
     "Excalidraw/Drawing 2025-10-06 16.53.50.excalidraw.md",
     "Excalidraw/Drawing 2025-10-15 22.56.48.excalidraw.md",
-    "Highschool AO/Previous exams/2024 december 1st sitting.pdf",
     "Highschool AO/Topics gathered from previous exams/turkish 2 topics from  questions over years.md",
     "test.md",
     "Highschool AO/Turk Dili ve Edebiyat 1/topics.md",

@@ -1,4 +1,4 @@
-
+	
 ## 📌 ANAHTAR KAVRAMLAR
 
 |Kavram|Açıklama|Sayfa|
@@ -208,6 +208,209 @@ Kaşlarını yıktı geçti
 ```
 
 i got the general hinting to something u dont want to say clearly but i didnt really fully get it its probably language barriers shit even tho my turkish is like b2 something
+
+
+
+# Türk Dili ve Edebiyatı 1 - 1. Tema: Sözün İnceliği 3. Bölüm
+
+## İmgenin Oluşumu
+Şair ve yazarın hayalleri sınırsızdır.  
+Dildeki kelimelerin sayısı sınırlıdır  
+Şair ve yazarlar kelimelere yeni anlam ya da anlamlar yükler.  
+Kelimelere yüklenen yeni anlamlar ile **imge** oluşur.  
+
+basically bro is saying when the poet is trying to explain something outside the words meaning its like in english when u say **its raining dogs and cats**, its not actually raining dogs and cats thats stupid to say u just mean that the rain is very heavy like a dog or a cat or something like that
+
+## Açık İleti vs Örtük İleti
+Edebî metinlerde sanatçılar, anlatmak istediklerini  
+- bazen **açıkça** dile getirirken  
+- bazen **okura sezdirme** yoluna gider.  
+
+→ Sanatçıların **açıkça** dile getirdikleri → **açık ileti**  
+→ Okura hissettirdikleri, sezdirdikleri → **örtük ileti**
+
+## Rasim Özdenören (1940-2022)
+İstanbul Üniversitesi Hukuk + Gazetecilik Enstitüsü  
+Devlet Planlama Teşkilatı uzman yardımcısı  
+**Mavera** dergisi kurucularından  
+
+Edebiyat şöhreti → **öykü** kitapları  
+Düşünce eserleriyle de dikkat çeker  
+
+1967 → **Hastalar ve Işıklar**  
+2009 → **İmkânsız Öyküler**  
+Toplam **10 öykü kitabı**
+
+Kültürel ve sosyal değişimin bireyde ve ailede yol açtığı **çarpıklıkları, çelişkileri, açmazları** işler.  
+Şiirsel söyleyişe sahiptir.
+
+### Eserleri
+**Hikâye**:  
+- Kuyu  
+- Çözülme  
+- Ansızın Yola Çıkmak  
+- Denize Açılan Kapı  
+
+**Roman**:  
+- Gül Yetiştiren Adam  
+
+**Deneme**:  
+- Iki Dünya  
+- Ruhun Malzemeleri  
+- Yeniden İnanmak  
+- Kafa Karıştıran Kelimeler
+
+
+# Türk Dili ve Edebiyatı 1 - 1. Tema: Sözün İnceliği 4. Bölüm
+
+ses bilgisi 
+
+ses bilgisi splits to  sesler , ses olaylari , unlu uyumlari 
+
+under sesler (
+
+unlu harflar , unsuz harfler
+
+undre unlu
+kalin unluler
+ince unluler
+)
+
+under unsuz (sert unsuzler , yumusak unsuzler)
+
+under unlu uyymlari (
+buyuk unlu uyumu
+kucuk unlu uyumu
+)
+
+under ses olaylari(
+ses dusmesi , ses turemesi , ulama , vurgu , unsuz benzesemis , unsuz yumusamasi , unlu daralmasi , kaynasma
+)
+
+
+1. Ses Olayları
+
+a. Ünsüz Sertleşmesi (Ünsüz Benzeşmesi)
+
+Bir sözcüğün kökü veya gövdesi "f, s, t, k, ç, ş, h, p" harflerinden biriyle bitiyorsa ve gelen ek "k, t, ç" harflerinden biriyle başlıyorsa bu olaya ünsüz sertleşmesi(benzeşme, ünsüz uyumu) adı verilir.
+
+Sert Ünsüzler: f, s, t, k, ç, ş, h, p
+
+yavaş ca yavaş - ça
+
+unut gan unut - kan
+
+TÜRK DİLİ VE EDEBİYATI - 1
+
+b. Ünsüz Yumuşaması (Sessiz Yumuşaması)
+
+Türkçede sert ünsüzlerden "k - t - çp" biten bir sözcüğe ünlü ile başlayan bir ek getiril-diğinde, bu sözcüğün sonundaki ünsüz yumuşayarak "b -cd-g"ye dönüşür. Bu kurala ünsüz değişimi ya da ünsüz yumuşaması denir.
+
+ağaç - ı ağacı
+
+kağıt - ı kağıdı
+
+çocuk u çocuğu
+
+Edebî metinlerde sanatçılar, anlatmak istediklerini bazen açıkça dile getirirken bazen okura 
+
+
+c) Ünsüz Türemesi
+
+Sözcüğün aslında olmadığı halde sözcüğe ek getirildiğinde ya da sözcüğün başka bir söz-cükle birleşmesi sonucunda bir sesin ortaya çıkmasına ünsüz türemesi denir.
+
+Örnek:
+
+af etmek af fetmek
+
+red + etmek reddetmek
+
+hal + etmek halletmek
+
+şık - k - ı şıkkı
+
+d) Ünsüz Düşmesi
+
+Türkçede "-k" ünsüzüyle biten bazı kelimeler "-cık /-cik" eklerini aldıklarında sözcüğün so-nundaki "-k" düşer. Bu ses olayına sessiz (ünsüz) düşmesi denir.
+
+Örnek
+
+ufak-cık ufacık
+
+minik-cik minicik
+
+sıcak cik sıcacık
+
+
+
+e) Ünlü Düşmesi
+
+Son hecesinde dar ünlü (ı, i, u, ü) bulunan kelimeler ünlüyle başlayan bir ek aldıklarında son hecedeki dar ünlü düşer. Bu olaya sesli (ünlü) düşmesi denir. Sözcükte bir ünlünün düş-mesi bir hecenin eksilmesine neden olduğundan ünlü düşmesi, hece düşmesi olarak da adlandırılır.
+
+Örnek
+
+karını karnı
+
+oğul - u oğlu
+
+gönül - e gönle
+
+
+
+f) Ünlü Türemesi
+
+Sözcüğün aslında olmadığı halde, sözcüğe "-cık" ek getirildiğinde ortaya yeni ünlünün çık-masına ünlü türemesi denir.
+
+Örnek
+
+dar-cık daracık
+
+az-cık azıcık
+
+genç - cik gencecik
+
+g. Ünlü Daralması
+
+Türkçede "a - e" geniş ünlüleri ile biten fillere "-yor" eki getirildiğinde, fiilin sonundaki geniş Ünlüler daralarak "i-1-u-0" dar Ünlülerine dönüşür. Bu kurala Ünlü daralması denir.
+
+Örnek
+
+başla - yor başlıyor
+
+gülme - yor gülmüyor
+
+susma - yor susmuyor
+
+
+he simply said " we use those in daily talking to ease the talking or speech "
+
+
+
+H. Ulema
+
+Söyleyiş ile ilgili olan bir ses olayıdır. Ünsüzle biten bir kelimeden sonra ünlü ile başlayan bir kelime geldiğinde iki kelime birbirine bağlanarak okunur. Bu kurala ulama denir.
+
+Örnek
+
+Dün akşam Sezen Aksu'nun konserine gittik.
+
+1. Kaynaştırma
+
+Türkçede iki ünlü harf yan yana gelmez. Bu nedenle ünlü ile biten bir kelimenin sonuna ün-lüyle başlayan bir ek geldiğinde iki ünlünün arasına "n, s, s, y" harflerinden biri getirilir. Bu harflere kaynaştırma harfi veya yardımcı ses; bu olaya ise kaynaşma veya kaynaştırma denir.
+
+Örnek
+
+kapı + a kapıya
+
+araba + in arabanın
+
+pencere + in pencerenin
+
+anne + i + i annesini
+
+Tam ekran
+
+14:22 / 15:33
 
 
 
