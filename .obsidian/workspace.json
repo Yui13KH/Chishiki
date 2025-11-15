@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Highschool AO/Topics gathered from previous exams/turkish exam 1 patterns.md",
+                "file": "Subjects/Türk Dili ve Edebiyatı 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "turkish exam 1 patterns"
+              "title": "Türk Dili ve Edebiyatı 1"
             }
           }
         ]
@@ -170,10 +170,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4e8286d7dfebfffe",
+  "active": "ef313a86d83b88f7",
   "lastOpenFiles": [
-    "Highschool AO/Topics gathered from previous exams/bio 1 topics from  questions over years.md",
     "Highschool AO/Topics gathered from previous exams/turkish exam 1 patterns.md",
+    "Highschool AO/Topics gathered from previous exams/topics ranges.md",
+    "Subjects/Pasted image 20251107201331.png",
+    "Subjects/Biyoloji 1.md",
+    "README.md",
+    "random.md",
+    "Subjects/Türk Dili ve Edebiyatı 1.md",
+    "metin turler.png",
+    "Highschool AO/Topics gathered from previous exams/bio 1 topics from  questions over years.md",
     "Highschool AO/Topics gathered from previous exams/Chemistry topics from  questions over years.md",
     "Highschool AO/Topics gathered from previous exams/bio 2 topics from  questions over years.md",
     "Highschool AO/Topics gathered from previous exams/geography 2 topics from  questions over years.md",
@@ -181,18 +188,12 @@
     "Highschool AO/Topics gathered from previous exams/traffic 1 topics from  questions over years.md",
     "Highschool AO/Topics gathered from previous exams/turkish 2 topics from  questions over years.md",
     "Highschool AO/Topics gathered from previous exams/turkish 1 topics from  questions over years.md",
-    "Subjects/Türk Dili ve Edebiyatı 1.md",
-    "Highschool AO/Topics gathered from previous exams/topics ranges.md",
     "turk_dili_ve_edebiyati_1_2024.pdf",
     "Highschool AO/Previous exams/2025 march 2nd sitting.pdf",
     "Highschool AO/Topics gathered from previous exams/M.E.B. Açık Öğretim Lisesi ve Mesleki Açık Öğretim Lisesi.pdf",
     "Highschool AO/Previous exams/2025 march 1st sitting.pdf",
-    "random.md",
-    "Subjects/Biyoloji 1.md",
-    "README.md",
     "Pasted image 20251109140313.png",
     "Fundamentals of Data Engineering (Reis, JoeHousley, Matt).md",
-    "Subjects/Pasted image 20251107201331.png",
     "Books",
     "Untitled.base",
     "Untitled 1.base",
@@ -214,7 +215,6 @@
     "Excalidraw/Drawing 2025-10-15 22.55.26.excalidraw.md",
     "Excalidraw/Drawing 2025-10-06 16.53.50.excalidraw.md",
     "Excalidraw/Drawing 2025-10-15 22.56.48.excalidraw.md",
-    "test.md",
     "Comptia/Media/port traffic.png"
   ]
 }

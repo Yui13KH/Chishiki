@@ -407,4 +407,115 @@ Alanında ünlü kişileri **çeşitli yönleriyle tanıtmak**, **önemli olayla
 ### Mülakat Yapısı
 1. **Giriş
 
-	
+
+
+
+# Türk Dili ve Edebiyatı 1 – Tema 2: **Anlam Arayışı**  
+
+
+---
+
+## Tema 2 – Anlam Arayışı
+
+| Bölüm | Konu | Sayfa |
+|-------|------|-------|
+| 1 | Hikâye & Anı | – |
+| 2 | Edebî vs Öğretici Metinler | – |
+| 3 | Şiir Türleri | – |
+
+---
+
+## 1. Bölüm – **Hikâye & Anı**
+
+### HİKÂYE
+- **Tanım:** Yaşanmış/yaşanabilir **olay** → **anlatı türü**
+- **4 Temel Unsur:**
+  1. **Olay** (ana eksen)
+  2. **Mekân**
+  3. **Zaman**
+  4. **Karakter**
+- **Tema:** Soyut duygu/kavram (aşk, vatan, yalnızlık)
+
+#### Ömer Seyfettin (1884–1920)
+- **Rol:** Modern Türk hikâyeciliğinin **kurucusu**
+- **Tarafı:** **Maupassant tarzı** = **olay hikâyesi**
+- **Konuları:** Çocukluk, askerlik, cehalet
+- **Eserler:**
+  - *Başını Vermeyen Şehit*
+  - *Primo Türk Çocuğu*
+  - *Yüksek Ökçeler*
+  - *Gizli Mâbed*
+- **Dergi:** **Genç Kalemler** (Ziya Gökalp + Ali Canip)
+- **Makale:** **Yeni Lisan** → Türkçeyi sadeleştirme
+
+### ANI
+- **Tanım:** **Hatırlanan** geçmiş olaylar → **gerçek**
+- **Amaç:** Sebep-sonuç ilişkisiyle paylaşım
+- **Özellikler:**
+  - Planlı yapı
+  - Tasvir
+  - Geriye dönüş
+  - Sembol/kinaye
+- **Türk Edebiyatı Tarihi:**
+  - **İlk:** Kök Türk Kitabeleri
+  - **16. yy:** Bâbürname
+  - **Divan:** Vakayiname, sefaretname, seyahatname
+  - **Tanzimat sonrası:** Yaygınlaşma
+
+#### Halide Nusret Zorlutuna (1901–1984)
+- **Meslek:** Edebiyat/Türkçe öğretmeni
+- **Eserler:**
+  - **Roman:** *Küller*, *Sisli Geceler*
+  - **Şiir:** *Yayla Türküsü*, *Geceden Taşan Dertler*
+  - **Anı:** **Bir Devrin Romanı**
+
+---
+
+## 2. Bölüm – **Edebî vs Öğretici Metinler**
+
+```mermaid
+graph TD
+    A[Metinler] --> B["Edebî (Sanatsal)"]
+    A --> C["Öğretici (Düşünsel)"]
+
+    B --> D["Coşku/Heyecan → Şiir"]
+    B --> E["Olay Çevresinde"]
+    E --> F["Anlatmaya Bağlı: Roman, Hikâye, Masal, Fabl..."]
+    E --> G["Göstermeye Bağlı: Tiyatro"]
+    G --> H["Geleneksel: Karagöz, Orta Oyunu, Meddah"]
+    G --> I["Modern: Komedi, Trajedi, Dram"]
+
+    C --> J["Dini, Felsefi, Tarihi"]
+    C --> K["Kişisel Hayat"]
+    K --> L["Biyografi, Otobiyografi, Anı, Günlük, Mektup..."]
+    C --> M["Gazete Çevresi"]
+    M --> N["Deneme, Makale, Fıkra, Eleştiri, Mülakat..."]
+```
+
+
+![[metin turler.png]]
+
+| Özellik | **Edebî** | **Öğretici** |
+|---------|-----------|--------------|
+| Gerçeklik | **Kurmaca** | Gerçek |
+| Amaç | **Hissettirir, sezdirir** | **Bilgi verir** |
+| Dil | Öznel, sanatsal | Nesnel |
+
+---
+
+
+## 3. Bölüm – **Şiir Türleri**
+
+| Tür | Tanım | Örnek Tema |
+|-----|-------|------------|
+| **Lirik** | Duygu, coşku | Aşk, özlem |
+| **Pastoral** | Doğa, çoban hayatı | Yayla, orman |
+| **Didaktik** | Öğüt, bilgi | Nasihat |
+| **Epik** | Savaş, kahramanlık | Destan |
+| **Satirik** | Toplum eleştirisi | Yergi |
+
+> **Alıntılar (Sınavlık!)**  
+> - “Şiir, sessiz bir şarkıdır.” → **Ahmet Hâşim**  
+> - “Şiir, insanın kendi ana dili çalgısında söylenen bir türküdür.” → **Cahit Külebi**
+
+---
