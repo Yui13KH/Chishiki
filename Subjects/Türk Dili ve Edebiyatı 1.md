@@ -1,13 +1,13 @@
 	
 ## 📌 ANAHTAR KAVRAMLAR
 
-|Kavram|Açıklama|Sayfa|
-|---|---|---|
-|**Sanat**|Duygu ve düşüncelerin esere yansıması → estetik beğeni uyandırır|17|
-|**Sanatçı**|Sezgiyle “güzel”e ulaşır, insanı manevi olarak yüceltir|17|
-|**Güzel Sanatlar**|3 grup: Fonetik – Plastik – Ritmik|20|
-|**Beş Hececiler**|Faruk Nafiz, Enis Behiç, Halit Fahri, Orhan Seyfi, Yusuf Ziya → **FERHOY**|–|
-|**Faruk Nafiz Çamlıbel**|En genç & önemli → Müfettiş → Anadolu gözlemleri → **Han Duvarları** (gerçekçi)|–|
+| Kavram                   | Açıklama                                                                        | Sayfa |
+| ------------------------ | ------------------------------------------------------------------------------- | ----- |
+| **Sanat**                | Duygu ve düşüncelerin esere yansıması → estetik beğeni uyandırır                | 17    |
+| **Sanatçı**              | Sezgiyle “güzel”e ulaşır, insanı manevi olarak yüceltir                         | 17    |
+| **Güzel Sanatlar**       | 3 grup: Fonetik – Plastik – Ritmik                                              | 20    |
+| **Beş Hececiler**        | Faruk Nafiz, Enis Behiç, Halit Fahri, Orhan Seyfi, Yusuf Ziya → **FERHOY**      | –     |
+| **Faruk Nafiz Çamlıbel** | En genç & önemli → Müfettiş → Anadolu gözlemleri → **Han Duvarları** (gerçekçi) | –     |
 
 ---
 
@@ -263,157 +263,148 @@ Kültürel ve sosyal değişimin bireyde ve ailede yol açtığı **çarpıklık
 
 # Türk Dili ve Edebiyatı 1 - 1. Tema: Sözün İnceliği 4. Bölüm
 
-ses bilgisi 
+## SES BİLGİSİ
+ses bilgisi splits to  
+- **sesler**  
+- **ses olayları**  
+- **ünlü uyumları**
 
-ses bilgisi splits to  sesler , ses olaylari , unlu uyumlari 
+---
 
-under sesler (
+### 1. SESLER
+#### Ünlü Harfler
+- **Kalın ünlüler**: a, ı, o, u  
+- **İnce ünlüler**: e, i, ö, ü  
 
-unlu harflar , unsuz harfler
+#### Ünsüz Harfler
+- **Sert ünsüzler**: f, s, t, k, ç, ş, h, p  
+- **Yumuşak ünsüzler**: b, c, d, g, ğ, j, l, m, n, r, v, y, z  
 
-undre unlu
-kalin unluler
-ince unluler
-)
+---
 
-under unsuz (sert unsuzler , yumusak unsuzler)
+### 2. ÜNLÜ UYUMLARI
+- **Büyük ünlü uyumu**  
+- **Küçük ünlü uyumu**  
 
-under unlu uyymlari (
-buyuk unlu uyumu
-kucuk unlu uyumu
-)
+---
 
-under ses olaylari(
-ses dusmesi , ses turemesi , ulama , vurgu , unsuz benzesemis , unsuz yumusamasi , unlu daralmasi , kaynasma
-)
+### 3. SES OLAYLARI
+
+#### a. Ünsüz Sertleşmesi (Benzeşmesi)
+> Kök **sert ünsüzle** biter + ek **k/ç/t** ile başlar → **sertleşir**
 
+| Örnek | Sonuç |
+|------|-------|
+| yavaş + ca | yavaş**ça** |
+| unut + gan | unut**kan** |
 
-1. Ses Olayları
+#### b. Ünsüz Yumuşaması
+> **k-ç-t-p** → **ğ-c-d-b**
 
-a. Ünsüz Sertleşmesi (Ünsüz Benzeşmesi)
+| Örnek | Sonuç |
+|------|-------|
+| ağaç + ı | ağa**cı** |
+| kağıt + ı | kağı**dı** |
+| çocuk + u | çocu**ğu** |
 
-Bir sözcüğün kökü veya gövdesi "f, s, t, k, ç, ş, h, p" harflerinden biriyle bitiyorsa ve gelen ek "k, t, ç" harflerinden biriyle başlıyorsa bu olaya ünsüz sertleşmesi(benzeşme, ünsüz uyumu) adı verilir.
+#### c. Ünsüz Türemesi
+> Ek gelince **yeni ünsüz çıkar**
 
-Sert Ünsüzler: f, s, t, k, ç, ş, h, p
+| Örnek | Sonuç |
+|------|-------|
+| af + etmek | af**f**etmek |
+| red + etmek | red**d**etmek |
+| şık + ı | şık**k**ı |
 
-yavaş ca yavaş - ça
+#### d. Ünsüz Düşmesi
+> **-k** + **-cık** → **k düşer**
 
-unut gan unut - kan
+| Örnek | Sonuç |
+|------|-------|
+| ufak + cık | ufa**cık** |
+| minik + cik | mini**cik** |
 
-TÜRK DİLİ VE EDEBİYATI - 1
+#### e. Ünlü Düşmesi
+> Son hecede **dar ünlü** + **ünlüyle ek** → **dar ünlü düşer**
 
-b. Ünsüz Yumuşaması (Sessiz Yumuşaması)
+| Örnek | Sonuç |
+|------|-------|
+| karın + ı | kar**nı** |
+| oğul + u | oğ**lu** |
+| gönül + e | gön**le** |
 
-Türkçede sert ünsüzlerden "k - t - çp" biten bir sözcüğe ünlü ile başlayan bir ek getiril-diğinde, bu sözcüğün sonundaki ünsüz yumuşayarak "b -cd-g"ye dönüşür. Bu kurala ünsüz değişimi ya da ünsüz yumuşaması denir.
+#### f. Ünlü Türemesi
+> **-cık** ekinde **yeni ünlü çıkar**
 
-ağaç - ı ağacı
+| Örnek | Sonuç |
+|------|-------|
+| dar + cık | dara**cık** |
+| az + cık | azı**cık** |
+| genç + cik | gence**cik** |
 
-kağıt - ı kağıdı
+#### g. Ünlü Daralması
+> **-yor** eki → **a/e → ı/i/u/ü**
 
-çocuk u çocuğu
+| Örnek | Sonuç |
+|------|-------|
+| başla + yor | başlı**yor** |
+| gülme + yor | gülmü**yor** |
 
-Edebî metinlerde sanatçılar, anlatmak istediklerini bazen açıkça dile getirirken bazen okura 
+#### h. Ulama
+> Ünsüz + ünlü → **birlikte okunur**
 
+> Dün akşam **Sezen Aksu’nun** konserine gittik.
 
-c) Ünsüz Türemesi
+#### i. Kaynaştırma (Kaynaşma)
+> Ünlü + ünlü → **n/s/ş/y** girer
 
-Sözcüğün aslında olmadığı halde sözcüğe ek getirildiğinde ya da sözcüğün başka bir söz-cükle birleşmesi sonucunda bir sesin ortaya çıkmasına ünsüz türemesi denir.
+| Örnek        | Sonuç        |
+| ------------ | ------------ |
+| kapı + a     | kapı**ya**   |
+| araba + ın   | araba**nın** |
+| anne + i + i | anne**si**ni |
 
-Örnek:
 
-af etmek af fetmek
+# Türk Dili ve Edebiyatı 1 - 1. Tema: Sözün İnceliği 5. Bölüm
 
-red + etmek reddetmek
+## DENEME
+Deneme, yazarın seçtiği bir konu üzerinde **kesin sonuçlara varmadan** kişisel görüş ve düşüncelerini anlattığı metin türüdür.  
+Denemede yazar;  
+- sanat  
+- edebiyat  
+- doğa  
+- yaşam  
+- dünya görüşü  
+gibi **insan ve insanla ilgili** konulara değinir.  
 
-hal + etmek halletmek
+Deneme yazarı:  
+- **gözlemlerinden** ve **deneyimlerinden** yararlanır  
+- **kendisiyle konuşur gibi** içten ve **yapmacıksız** anlatım  
 
-şık - k - ı şıkkı
+**Denemeyi bir tür olarak ortaya koyan → Montaigne (Monteyn)**  
 
-d) Ünsüz Düşmesi
+Türk edebiyatında deneme temsilcileri:  
+- Nurullah Ataç  
+- Sabahattin Eyuboğlu  
+- Suut Kemal Yetkin  
+- Salah Birsel  
+- Şevket Rado  
 
-Türkçede "-k" ünsüzüyle biten bazı kelimeler "-cık /-cik" eklerini aldıklarında sözcüğün so-nundaki "-k" düşer. Bu ses olayına sessiz (ünsüz) düşmesi denir.
+> "basically something that the writer probably tried doing something like he is talking about as if he was himself"
 
-Örnek
+---
 
-ufak-cık ufacık
+## MÜLAKAT
+Alanında ünlü kişileri **çeşitli yönleriyle tanıtmak**, **önemli olaylarla ilgili düşüncelerini öğrenmek** amacıyla **zamanı önceden belirlenmiş** sorulu-cevaplı konuşmalara **mülakat** denir.
 
-minik-cik minicik
+### Mülakat Kuralları
+- Görüşmeci → **önceden araştırma** yapmalı  
+- Soruları **hazırlamalı**  
+- **Söz kesmemeli**  
+- **Sıkıcı/gereksiz sorular yok**  
+- **Yansız** davranmalı  
 
-sıcak cik sıcacık
+### Mülakat Yapısı
+1. **Giriş
 
-
-
-e) Ünlü Düşmesi
-
-Son hecesinde dar ünlü (ı, i, u, ü) bulunan kelimeler ünlüyle başlayan bir ek aldıklarında son hecedeki dar ünlü düşer. Bu olaya sesli (ünlü) düşmesi denir. Sözcükte bir ünlünün düş-mesi bir hecenin eksilmesine neden olduğundan ünlü düşmesi, hece düşmesi olarak da adlandırılır.
-
-Örnek
-
-karını karnı
-
-oğul - u oğlu
-
-gönül - e gönle
-
-
-
-f) Ünlü Türemesi
-
-Sözcüğün aslında olmadığı halde, sözcüğe "-cık" ek getirildiğinde ortaya yeni ünlünün çık-masına ünlü türemesi denir.
-
-Örnek
-
-dar-cık daracık
-
-az-cık azıcık
-
-genç - cik gencecik
-
-g. Ünlü Daralması
-
-Türkçede "a - e" geniş ünlüleri ile biten fillere "-yor" eki getirildiğinde, fiilin sonundaki geniş Ünlüler daralarak "i-1-u-0" dar Ünlülerine dönüşür. Bu kurala Ünlü daralması denir.
-
-Örnek
-
-başla - yor başlıyor
-
-gülme - yor gülmüyor
-
-susma - yor susmuyor
-
-
-he simply said " we use those in daily talking to ease the talking or speech "
-
-
-
-H. Ulema
-
-Söyleyiş ile ilgili olan bir ses olayıdır. Ünsüzle biten bir kelimeden sonra ünlü ile başlayan bir kelime geldiğinde iki kelime birbirine bağlanarak okunur. Bu kurala ulama denir.
-
-Örnek
-
-Dün akşam Sezen Aksu'nun konserine gittik.
-
-1. Kaynaştırma
-
-Türkçede iki ünlü harf yan yana gelmez. Bu nedenle ünlü ile biten bir kelimenin sonuna ün-lüyle başlayan bir ek geldiğinde iki ünlünün arasına "n, s, s, y" harflerinden biri getirilir. Bu harflere kaynaştırma harfi veya yardımcı ses; bu olaya ise kaynaşma veya kaynaştırma denir.
-
-Örnek
-
-kapı + a kapıya
-
-araba + in arabanın
-
-pencere + in pencerenin
-
-anne + i + i annesini
-
-Tam ekran
-
-14:22 / 15:33
-
-
-
-
-Tema 1: Sözün İnceliği [████████░░░░] 60%
-Toplam Türk Edebiyatı 1  [████░░░░░░░░] 25%
+	
