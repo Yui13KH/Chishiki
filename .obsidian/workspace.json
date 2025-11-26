@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef313a86d83b88f7",
+            "id": "5bd0d978f95132fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Türk Dili ve Edebiyatı 1.md",
+                "file": "Google Cybersecurity/week 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Türk Dili ve Edebiyatı 1"
+              "title": "week 2"
+            }
+          },
+          {
+            "id": "2d1d9564fe12c670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yui courses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "yui courses"
+            }
+          },
+          {
+            "id": "b26819883d3b3bc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kato courses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kato courses"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,16 +199,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef313a86d83b88f7",
+  "active": "b26819883d3b3bc2",
   "lastOpenFiles": [
+    "yui courses.md",
+    "kato courses.md",
+    "Google Cybersecurity/week 2.md",
+    "random.md",
+    "Google Cybersecurity/week 1.md",
+    "Subjects/Pasted image 20251118181610.png",
+    "Google Cybersecurity",
+    "Untitled",
+    "Subjects/metin turler.png",
+    "Subjects/Türk Dili ve Edebiyatı 1.md",
+    "math.md",
+    "Subjects/Biyoloji 2.md",
+    "Subjects/Biyoloji 1.md",
+    "Subjects/Pasted image 20251107201331.png",
     "Highschool AO/Topics gathered from previous exams/turkish exam 1 patterns.md",
     "Highschool AO/Topics gathered from previous exams/topics ranges.md",
-    "Subjects/Pasted image 20251107201331.png",
-    "Subjects/Biyoloji 1.md",
     "README.md",
-    "random.md",
-    "Subjects/Türk Dili ve Edebiyatı 1.md",
-    "metin turler.png",
     "Highschool AO/Topics gathered from previous exams/bio 1 topics from  questions over years.md",
     "Highschool AO/Topics gathered from previous exams/Chemistry topics from  questions over years.md",
     "Highschool AO/Topics gathered from previous exams/bio 2 topics from  questions over years.md",
@@ -198,23 +236,16 @@
     "Untitled.base",
     "Untitled 1.base",
     "Highschool AO/Previous exams/2025 march 3rd sitting.pdf",
-    "Subjects",
     "Highschool AO/kimya 1/atom radius trend.png",
     "Randoms/Unrealistic Roadmap.md",
     "Randoms/coursera+ certs.md",
     "Comptia/A+/Professor Messer/1.1 Laptop Hardware.md",
     "Comptia/A+/burningtech/module 3 installing system devices.md",
     "Comptia/A+/AIO book/Info.md",
-    "Comptia/A+/AIO book/Electrostatic Discharge (ESD).md",
     "Comptia/A+/AIO book/Media/Technical toolkit.png",
     "Highschool AO/kimya 1/trends.png",
-    "school/kimya_1_2024.pdf",
     "Highschool AO/kimya 1/atom radius tererds==--.png",
     "Comptia/Pasted image 20250928182016.png",
-    "Excalidraw/Drawing 2025-10-15 23.02.44.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-15 22.55.26.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-06 16.53.50.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-15 22.56.48.excalidraw.md",
     "Comptia/Media/port traffic.png"
   ]
 }
